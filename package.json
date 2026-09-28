@@ -1,0 +1,25 @@
+{
+  "name": "bengkelkoding-poliklinik",
+  "version": "1.0.0",
+  "description": "Aplikasi berbasis web yang dirancang untuk mengelola data operasional dan layanan kesehatan di lingkungan poliklinik secara digital dan terintegrasi.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfaturachman/bengkelkoding-poliklinik.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Alfaturachman/bengkelkoding-poliklinik/issues"
+  },
+  "homepage": "https://github.com/Alfaturachman/bengkelkoding-poliklinik#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
